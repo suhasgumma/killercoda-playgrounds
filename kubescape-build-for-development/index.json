@@ -1,0 +1,15 @@
+{
+    "title": "Kubescape-Develop-ubuntu",
+    "description": "Kubescape is the first open-source tool for testing if Kubernetes is deployed securely according to multiple framework",
+    "difficulty": "Beginner",
+    "details": {
+      "intro": {
+        "code": "foreground.sh"
+      }
+    },
+    "environment": {"uilayout": "terminal"},
+    "backend": {
+      "imageid": "ubuntu:2004"
+    }
+  }
+  
