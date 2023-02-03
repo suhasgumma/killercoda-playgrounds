@@ -1,6 +1,6 @@
 sudo add-apt-repository ppa:longsleep/golang-backports &&
 sudo apt update &&
-sudo apt install golang-go &&
+sudo apt install golang-go -y &&
 git clone https://github.com/kubescape/kubescape.git &&
 sudo apt-get install cmake -y &&
 cd kubescape &&
