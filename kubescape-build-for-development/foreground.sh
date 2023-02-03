@@ -1,4 +1,4 @@
-sudo add-apt-repository ppa:longsleep/golang-backports &&
+sudo add-apt-repository ppa:longsleep/golang-backports -y &&
 sudo apt update &&
 sudo apt install golang-go -y &&
 git clone https://github.com/kubescape/kubescape.git &&
